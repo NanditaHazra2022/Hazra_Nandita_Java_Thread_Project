@@ -33,6 +33,7 @@ public class SimpleThreads {
         }
     }
 
+    // starting point of execution
     public static void main(String args[])
             throws InterruptedException {
 
